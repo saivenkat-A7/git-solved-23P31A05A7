@@ -1,0 +1,35 @@
+* 78cc8fd (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 02cb2e6 docs: Add detailed CHANGELOG for Phase 4
+* f957a23 (tag: v1.1.0, tag: v1.0.0) add git reflog output
+* 266e28a add checkpoint 4
+| * be45954 (dev) docs: Add GIT_JOURNEY.md and final project artifacts
+| * b255a26 add git-journey,md file
+| * 75e402b docs: Add final project artifacts
+| * d945fb9 docs: Add changelog
+| | * b1f1fa5 (origin/feature/another-feature) feat: Add test feature
+| |/  
+|/|   
+* | dac895f (feature/another-feature) docs: Add FAQ section
+* |   733a68e (feature/new-feature) Add checkpoint 3
+|\ \  
+| * \   6838415 merge: Resolve all conflicts between main and dev branches
+| |\ \  
+* | | | 17df982 Add chechpoint3 screenshot
+* | | |   32dcb96 merge: Resolve all conflicts between main and conflict-simulator branches
+|\ \ \ \  
+| |/ / /  
+|/| / /   
+| |/ /    
+| * | d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | | 23206f3 Added Checkpoint 2 screenshot
+* | | 150e618 Added Checkpoint 1 screenshot
+* | |   6ddc297 merge: Resolve all conflicts between main and dev branches
+|\ \ \  
+| | |/  
+| |/|   
+| * | 02011a5 (origin/dev, instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
